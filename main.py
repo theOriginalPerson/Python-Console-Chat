@@ -38,5 +38,3 @@ def chat():
     return ("Thanks for chatting!")
 
 print(chat())
-
-# lessons learned: while loops, dicts and dict-manipulation, conditional statements, functions, casting (with lists)
