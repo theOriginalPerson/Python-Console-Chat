@@ -2,7 +2,7 @@
 <h3>Intro</h3>
 <p>Welcome to the Chatting with Python course! Here we will briefly learn how to develop a basic chat application in the console.</p>
 <h3>Steps to reproduce this</h3>
-<p>Please feel free to refer to the code in the example I've laid out for you above. Do your best to do it on your own and figure out how to create your own functions and variables, following the steps written below.</p>
+<p>Please feel free to refer to the code in the <code>main.py</code> file I've provided for you above. Do your best to do it on your own whilst following the steps written below.</p>
 <ol>
     <li>Build your dictionary. Specifically choose which key, value pairings you wish to use (i.e. what you want to ask the console and what you want it to say back)</li>
     <li>Make a joke dictionary nested within your overall dictionary when someone writes "tell me a joke" to the console.</li>
